@@ -1,6 +1,7 @@
 gcc
 g++ 
 make
+cmake
 build-essential
 links
 cron
